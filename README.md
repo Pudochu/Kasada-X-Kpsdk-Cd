@@ -1,5 +1,4 @@
-# Kasada-X-Kpsdk-Cd 🌟
-Kasada Deobfuscator (Creating X-Kpsdk-Cd code)
+# Kasada Reverse (Node.js)
 
 ## Run index.js - example result:
 ```js
